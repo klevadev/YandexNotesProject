@@ -1,0 +1,14 @@
+//
+//  Release.xcconfig
+//  YandexNotesProject
+//
+//  Created by Lev Kolesnikov on 01/07/2019.
+//  Copyright © 2019 phenomendevelopers. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+IS_APP_NAME = Notes
+IS_APP_VERSION = 0.1
+IS_APP_ICON = AppIconRelease
